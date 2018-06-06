@@ -1,7 +1,15 @@
 package me.adeel.heatcore;
 
-public class main {
-    public void onEnable(){
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class main extends JavaPlugin {
+
+    public void onEnable() {
 
     }
+
+    public void onDisable() {
+    }
+
 }
