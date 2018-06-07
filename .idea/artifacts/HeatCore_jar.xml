@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HeatCore:jar">
+    <output-path>$USER_HOME$/Desktop/Adeel/Test Server/plugins</output-path>
+    <root id="archive" name="HeatCore.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/Adeel/Test Server/plugins/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="HeatCore" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
